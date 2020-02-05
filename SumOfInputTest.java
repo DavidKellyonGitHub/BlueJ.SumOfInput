@@ -8,8 +8,8 @@ import org.junit.Test;
 /**
  * The test class SumOfInputTest.
  *
- * @author  (your name)
- * @version (a version number or a date)
+ * @Dave Kelly
+ * @2/5/20
  */
 public class SumOfInputTest
 {
@@ -18,6 +18,11 @@ public class SumOfInputTest
      */
     //Bonus Question! How is this constructor used when none is defined
     //in the class?
+    /*"Every class has a constructor even though none are defined. 
+     * 
+     *When a class does not define any constructor, the Java compiler actually 
+     *automatically creates a do-nothing constructor with no parameter." according to http://xahlee.info/java-a-day/constructer.html
+     */
     public SumOfInputTest()
     {
     }
